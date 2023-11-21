@@ -1,10 +1,11 @@
 import React from 'react';
-import AxiosGet from './Day8/AxiosGet';
+import Login from './PROJECT/Login';
+import LoginSignup from './Day8/LoginSignUp';
 function App()
 {
   return(
     <div>
-      <AxiosGet/>
+      <LoginSignup/>
     </div>
   )
 }
